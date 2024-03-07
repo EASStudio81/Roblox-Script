@@ -1,1 +1,1 @@
-Script will i public soon!..
+loadstring(game:HttpGet("https://pastebin.com/raw/z9vUap4X"))()
