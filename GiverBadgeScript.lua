@@ -1,3 +1,4 @@
+--Only work in Studio...
 local badgeID == "ID BADGE"
 local badgeService = game:GetService("BadgeService")
 
